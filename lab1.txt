@@ -1,0 +1,158 @@
+# 🧪 Linux Fundamentals Lab 1
+
+## 📁 The Lost Project Files
+
+---
+
+## 📌 Overview
+
+Welcome to the Linux Fundamentals Lab! In this hands-on activity, you will practice essential Linux skills by organizing and managing a messy project directory.
+
+This lab is designed to help you become comfortable with:
+
+* Navigating the Linux file system
+* Creating and managing files and directories
+* Editing files using `nano` or `vim`
+* Performing basic file operations
+
+---
+
+## 🎯 Objectives
+
+By the end of this lab, you should be able to:
+
+* Use commands like `cd`, `ls`, and `pwd` to navigate directories
+* Create and remove files/directories using `touch`, `mkdir`, `rm`
+* Copy, move, and rename files using `cp` and `mv`
+* View and edit files using `cat`, `less`, `nano`, or `vim`
+* Organize files in a structured way
+
+---
+
+## 🧩 Scenario
+
+You have logged into a Linux system and found a disorganized project workspace. Your task is to clean up, organize, and prepare the environment for proper use.
+
+---
+
+## 🛠️ Requirements
+
+* A Linux environment (e.g., Ubuntu, Kali Linux, or any distro)
+* Access to a terminal
+* Basic knowledge of Linux commands
+
+---
+
+## 📁 Tasks
+
+### 🔹 Part 1: Setup
+
+* Create a directory named `linux_lab` in your home folder
+* Navigate into it
+* Create the following directories:
+
+  * `projects/`
+  * `documents/`
+  * `scripts/`
+  * `backup/`
+
+---
+
+### 🔹 Part 2: File Creation
+
+* Inside `projects/`, create:
+
+  * `project1.txt`
+  * `project2.txt`
+
+* Inside `documents/`, create:
+
+  * `notes.txt`
+  * `todo.txt`
+
+* Inside `scripts/`, create:
+
+  * `backup.sh`
+
+---
+
+### 🔹 Part 3: File Editing
+
+* Add content to `project1.txt`:
+
+  ```
+  Project 1: Linux Basics
+  Status: Incomplete
+  ```
+
+* Add at least 3 Linux commands to `notes.txt`
+
+* Add the following to `backup.sh`:
+
+  ```
+  #!/bin/bash
+  echo "Backing up files..."
+  ```
+
+---
+
+### 🔹 Part 4: File Operations
+
+* Copy `project1.txt` to the `backup/` directory
+* Rename `project2.txt` to `project2_old.txt`
+* Move `todo.txt` from `documents/` to `projects/`
+
+---
+
+### 🔹 Part 5: Viewing Files
+
+* Display `project1.txt` using `cat`
+* View it again using `less`
+* Display the contents of `notes.txt`
+
+---
+
+### 🔹 Part 6: Cleanup
+
+* Delete `project2_old.txt`
+* Remove the `backup/` directory (ensure it is not empty before deletion)
+
+---
+
+### 🔹 Part 7: Challenge 🚀
+
+* Create a file named `log.txt` in `linux_lab`
+* Save the following into the file:
+
+  * Current directory path
+  * List of all files (including hidden files)
+
+*(Hint: Use `>` or `>>` for output redirection)*
+
+---
+
+## ✅ Expected Outcome
+
+After completing this lab, your directory structure should be organized, and you should be comfortable performing basic Linux file operations.
+
+---
+
+## 🧠 Reflection Questions
+
+1. What is the difference between `cp` and `mv`?
+2. Why is file organization important in Linux?
+3. What command would you use to remove a directory with contents?
+
+---
+
+## 📌 Submission Instructions
+
+* Ensure all tasks are completed
+* Be ready to demonstrate your work to the instructor
+* Answer the reflection questions
+
+---
+
+## 🎉 Good Luck!
+
+Take your time, experiment, and don’t be afraid to make mistakes—that’s how you learn Linux!
