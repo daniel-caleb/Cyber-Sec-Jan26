@@ -1,10 +1,10 @@
-🧪 Linux Fundamentals Lab 1
+# 🧪 Linux Fundamentals Lab 1
 
-📁 The Lost Project Files
+## 📁 The Lost Project Files
 
 ---
 
-📌 Overview
+## 📌 Overview
 
 Welcome to the Linux Fundamentals Lab! In this hands-on activity, you will practice essential Linux skills by organizing and managing a messy project directory.
 
@@ -17,7 +17,7 @@ This lab is designed to help you become comfortable with:
 
 ---
 
-🎯 Objectives
+## 🎯 Objectives
 
 By the end of this lab, you should be able to:
 
@@ -29,13 +29,13 @@ By the end of this lab, you should be able to:
 
 ---
 
-🧩 Scenario
+## 🧩 Scenario
 
 You have logged into a Linux system and found a disorganized project workspace. Your task is to clean up, organize, and prepare the environment for proper use.
 
 ---
 
-🛠️ Requirements
+## 🛠️ Requirements
 
 * A Linux environment (e.g., Ubuntu, Kali Linux, or any distro)
 * Access to a terminal
@@ -43,9 +43,9 @@ You have logged into a Linux system and found a disorganized project workspace. 
 
 ---
 
-#📁 Tasks
+## 📁 Tasks
 
-🔹 Part 1: Setup
+### 🔹 Part 1: Setup
 
 * Create a directory named `linux_lab` in your home folder
 * Navigate into it
@@ -58,7 +58,7 @@ You have logged into a Linux system and found a disorganized project workspace. 
 
 ---
 
-🔹 Part 2: File Creation
+### 🔹 Part 2: File Creation
 
 * Inside `projects/`, create:
 
@@ -76,7 +76,7 @@ You have logged into a Linux system and found a disorganized project workspace. 
 
 ---
 
-🔹 Part 3: File Editing
+### 🔹 Part 3: File Editing
 
 * Add content to `project1.txt`:
 
@@ -96,7 +96,7 @@ You have logged into a Linux system and found a disorganized project workspace. 
 
 ---
 
-🔹 Part 4: File Operations
+### 🔹 Part 4: File Operations
 
 * Copy `project1.txt` to the `backup/` directory
 * Rename `project2.txt` to `project2_old.txt`
@@ -104,7 +104,7 @@ You have logged into a Linux system and found a disorganized project workspace. 
 
 ---
 
-🔹 Part 5: Viewing Files
+### 🔹 Part 5: Viewing Files
 
 * Display `project1.txt` using `cat`
 * View it again using `less`
@@ -112,14 +112,14 @@ You have logged into a Linux system and found a disorganized project workspace. 
 
 ---
 
-🔹 Part 6: Cleanup
+### 🔹 Part 6: Cleanup
 
 * Delete `project2_old.txt`
 * Remove the `backup/` directory (ensure it is not empty before deletion)
 
 ---
 
-🔹 Part 7: Challenge 🚀
+### 🔹 Part 7: Challenge 🚀
 
 * Create a file named `log.txt` in `linux_lab`
 * Save the following into the file:
@@ -131,13 +131,13 @@ You have logged into a Linux system and found a disorganized project workspace. 
 
 ---
 
-✅ Expected Outcome
+## ✅ Expected Outcome
 
 After completing this lab, your directory structure should be organized, and you should be comfortable performing basic Linux file operations.
 
 ---
 
-🧠 Reflection Questions
+## 🧠 Reflection Questions
 
 1. What is the difference between `cp` and `mv`?
 2. Why is file organization important in Linux?
@@ -145,7 +145,7 @@ After completing this lab, your directory structure should be organized, and you
 
 ---
 
-📌 Submission Instructions
+## 📌 Submission Instructions
 
 * Ensure all tasks are completed
 * Be ready to demonstrate your work to the instructor
@@ -153,6 +153,6 @@ After completing this lab, your directory structure should be organized, and you
 
 ---
 
-🎉 Good Luck!
+## 🎉 Good Luck!
 
 Take your time, experiment, and don’t be afraid to make mistakes—that’s how you learn Linux!

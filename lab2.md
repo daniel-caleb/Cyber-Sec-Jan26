@@ -1,4 +1,5 @@
-# 🧪 Linux Fundamentals Lab  
+# 🧪 Linux Fundamentals Lab  2
+
 ## 🔐 Secure Workspace Recovery
 
 ---
