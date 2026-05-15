@@ -43,7 +43,7 @@ You have logged into a Linux system and found a disorganized project workspace. 
 
 ---
 
-#📁 Tasks
+📁 Tasks
 
 🔹 Part 1: Setup
 
@@ -60,17 +60,17 @@ You have logged into a Linux system and found a disorganized project workspace. 
 
 🔹 Part 2: File Creation
 
-* Inside `projects/`, create:
+Inside `projects/`, create:
 
   * `project1.txt`
   * `project2.txt`
 
-* Inside `documents/`, create:
+Inside `documents/`, create:
 
   * `notes.txt`
   * `todo.txt`
 
-* Inside `scripts/`, create:
+Inside `scripts/`, create:
 
   * `backup.sh`
 
@@ -78,16 +78,16 @@ You have logged into a Linux system and found a disorganized project workspace. 
 
 🔹 Part 3: File Editing
 
-* Add content to `project1.txt`:
+Add content to `project1.txt`:
 
   ```
   Project 1: Linux Basics
   Status: Incomplete
   ```
 
-* Add at least 3 Linux commands to `notes.txt`
+Add at least 3 Linux commands to `notes.txt`
 
-* Add the following to `backup.sh`:
+Add the following to `backup.sh`:
 
   ```
   #!/bin/bash
